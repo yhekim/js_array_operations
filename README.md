@@ -3,13 +3,13 @@
 ## Description
 - js array operations made with css bootstrap
 
-- Examples such as adding, subtracting, sorting, and combining arrays
+- Examples such as adding, subtracting, sorting, and combining arrays.
 
-- https://yhekim.github.io/js-crud-operations/
+- https://yhekim.github.io/js_array_operations/
 
-- https://musing-lewin-8c9dc6.netlify.app/
+- https://keen-bassi-bddd30.netlify.app/
 
-- ![gif](https://raw.githubusercontent.com/yhekim/js-crud-operations/main/js-crud-operations.gif)
+- ![gif](https://raw.githubusercontent.com/yhekim/js_array_operations/main/array_example.gif)
 
 ## Learning Outcomes
 
